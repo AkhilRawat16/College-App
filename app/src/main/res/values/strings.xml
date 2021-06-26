@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CollegeApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+    <string name="desc">National Institute of Technology Patna (NIT Patna or NITP), formerly Bihar School of Engineering and Bihar College of Engineering, is a public engineering institution located in Patna in the Indian state of Bihar. It was renamed as NIT Patna, by the Government of India on 28 January 2004. NIT Patna marked its humble beginning in 1886 with the establishment of pleaders survey training school which was subsequently promoted to Bihar College of Engineering Patna in 1924. This made this institute the 6th Oldest Engineering Institute of India. It is an autonomous institute functioning directly under Ministry of Human Resource Development, Government of India.</string>
+
+    <string-array name="theme">
+
+        <item>System Default</item>
+        <item>Light</item>
+        <item>Dark</item>
+    </string-array>
+</resources>
